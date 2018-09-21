@@ -15,6 +15,7 @@ class App extends Component {
         </p>
         <small>You are running this application in <b>{process.env.NODE_ENV}</b> mode.</small>
         <small>Code: {process.env.REACT_APP_SECRET_CODE}</small>
+        <p>Copyright {Date().toString()}</p>
       </div>
     );
   }
