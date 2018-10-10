@@ -1,7 +1,14 @@
 {
-  "main.css": "static/css/main.c17080f1.css",
-  "main.css.map": "static/css/main.c17080f1.css.map",
-  "main.js": "static/js/main.1cb985b2.js",
-  "main.js.map": "static/js/main.1cb985b2.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "/my-cool-app/static/css/main.bf5b11c4.chunk.css",
+  "main.js": "/my-cool-app/static/js/main.033dc77c.chunk.js",
+  "main.js.map": "/my-cool-app/static/js/main.033dc77c.chunk.js.map",
+  "static/js/1.f5b17c1b.chunk.js": "/my-cool-app/static/js/1.f5b17c1b.chunk.js",
+  "static/js/1.f5b17c1b.chunk.js.map": "/my-cool-app/static/js/1.f5b17c1b.chunk.js.map",
+  "runtime~main.js": "/my-cool-app/static/js/runtime~main.1113eb17.js",
+  "runtime~main.js.map": "/my-cool-app/static/js/runtime~main.1113eb17.js.map",
+  "static/media/logo.svg": "/my-cool-app/static/media/logo.5d5d9eef.svg",
+  "static/css/main.bf5b11c4.chunk.css.map": "/my-cool-app/static/css/main.bf5b11c4.chunk.css.map",
+  "index.html": "/my-cool-app/index.html",
+  "precache-manifest.71d997baed2bef876b74ec319e44e6cc.js": "/my-cool-app/precache-manifest.71d997baed2bef876b74ec319e44e6cc.js",
+  "service-worker.js": "/my-cool-app/service-worker.js"
 }
