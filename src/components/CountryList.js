@@ -21,7 +21,7 @@ const CountryList = ({ countries=[], onRemove=f=>f }) =>
                 </tr>
             </thead>
             <tbody>
-                {countries.map(country => <tr><td>{country.name}</td><td>{country.capital}</td></tr>)}
+                {countries.map((country, index) => <tr key={index}><td>{country.name}</td><td>{country.capital}</td></tr>)}
             </tbody>
         </Table>
     </div>
